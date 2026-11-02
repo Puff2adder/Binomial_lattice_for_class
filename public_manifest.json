@@ -1,0 +1,10 @@
+{
+  "description": "Explicit deployment allowlist. Only these files may be served to learners.",
+  "public_files": [
+    "dist/index.html",
+    "dist/style.css",
+    "dist/app.js",
+    "dist/model.js",
+    "dist/questions.js"
+  ]
+}
